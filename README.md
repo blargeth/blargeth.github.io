@@ -2,7 +2,7 @@
 
 A web portfolio using HTML and CSS. 
 
-![gif](./Readme Files/Albert Portfolio Website.gif)
+![gif](./readme_files/website_demo_gif.gif)
 
 
 Future developments:
