@@ -1,7 +1,3 @@
-
-
-
-
 This project was based Dimension by HTML5 UP. Below is the original Readme:
 
 Dimension by HTML5 UP
