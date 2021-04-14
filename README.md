@@ -6,6 +6,8 @@ A web portfolio using HTML and CSS.
 
 
 Future developments:
-Update this readme.
-Add react functionality.
-Add a blog.
+- [X] Update this readme.
+- [X] Add GIFS to the readme.
+- [ ] Add MORE GIFS to the readme.
+- [ ] Add react functionality.
+- [ ] Add a blog.
